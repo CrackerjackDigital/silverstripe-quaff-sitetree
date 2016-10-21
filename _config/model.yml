@@ -1,0 +1,8 @@
+---
+Name: quaff-sitetree-model
+---
+Quaff\Tasks\SiteTree\Importer:
+  extensions:
+    - Modular\Fields\InternalLink
+    - Modular\Fields\ExternalLink
+    - Modular\Behaviours\InternalOrExternalLink
