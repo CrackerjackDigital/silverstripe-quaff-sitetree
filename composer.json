@@ -19,7 +19,7 @@
 		"composer/installers": "*",
 		"silverstripe/framework": ">=3.1",
 		"crackerjackdigital/silverstripe-modular": "*",
-		"crackerjackdigital/silverstripe-quaff": "*",Fix 
+		"crackerjackdigital/silverstripe-quaff": "*",
 		"crackerjackdigital/silverstripe-quaff-csv": "*"
 	},
 	"extra": {
