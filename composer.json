@@ -33,7 +33,7 @@
 		{
 			"type": "vcs",
 			"url": "https://github.com/crackerjackdigital/silverstripe-quaff"
-		}
+		},
 		{
 			"type": "vcs",
 			"url": "https://github.com/crackerjackdigital/silverstripe-quaff-csv"
