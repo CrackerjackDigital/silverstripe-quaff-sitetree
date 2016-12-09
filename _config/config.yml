@@ -2,7 +2,7 @@
 Name: quaff-sitetree-api-config
 ---
 Quaff\SiteTree\Api:
-  service: sitetree-importer
+  alias: sitetree-importer
   endpoints:
     import:sitetree:
       delete_existing: true

@@ -1,7 +1,7 @@
 {
 	"name": "crackerjackdigital/silverstripe-quaff-sitetree",
 	"type": "silverstripe-module",
-	"description": "Import site-tree support for quaff",
+	"description": "PHP SiteTree Adapter for Quaff",
 	"homepage": "http://github.com/crackerjackdigital",
 	"license": "BSD-3-Clause",
 	"keywords": [
@@ -18,9 +18,9 @@
 		"php": ">=5.5",
 		"composer/installers": "*",
 		"silverstripe/framework": ">=3.1",
+		"guzzlehttp/guzzle": "6.2.x",
 		"crackerjackdigital/silverstripe-modular": "*",
-		"crackerjackdigital/silverstripe-quaff": "*",
-		"crackerjackdigital/silverstripe-quaff-csv": "*"
+		"crackerjackdigital/silverstripe-quaff": "*"
 	},
 	"extra": {
 		"installer-name": "quaff-sitetree"
@@ -33,10 +33,6 @@
 		{
 			"type": "vcs",
 			"url": "https://github.com/crackerjackdigital/silverstripe-quaff"
-		},
-		{
-			"type": "vcs",
-			"url": "https://github.com/crackerjackdigital/silverstripe-quaff-csv"
 		}
 	]
 }
