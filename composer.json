@@ -34,5 +34,6 @@
 			"type": "vcs",
 			"url": "https://github.com/crackerjackdigital/silverstripe-quaff"
 		}
-	]
+	],
+	"minimum-stability": "dev"
 }
